@@ -40,5 +40,5 @@ São Valério,4.422,são valeriano,4.422km²
 - Este script é apenas um exemplo e pode ser modificado para atender às suas necessidades específicas.
 - Certifique-se de respeitar os termos de serviço do site ao fazer web scraping.
 - Consulte a documentação do Puppeteer para obter mais informações sobre como usá-lo.
-- Este script foi testado com o Puppeteer versão 10.4.0.
+- Este script foi testado com o Puppeteer versão 22.8.0.
 - Este script foi escrito em JavaScript ES6 e requer Node.js para ser executado.
